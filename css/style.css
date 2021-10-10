@@ -1,0 +1,45 @@
+a {
+  /* or whatever your class */
+  text-decoration: none;
+}
+
+.dropdown-item__cart {
+  background: #0d6efd;
+  color: white;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  min-width: 300px;
+}
+
+.card-img {
+  display: block;
+  width: 9rem;
+}
+
+.card-text {
+  max-width: 16rem;
+  word-wrap: break-word;
+  padding: 20px;
+}
+
+.fa-facebook:hover {
+  color: #3c51a2;
+}
+.fa-twitter:hover {
+  color: #5cb0f3;
+}
+.fa-google:hover {
+  color: #017bf3;
+}
+.fa-instagram:hover {
+  color: #da1331;
+}
+.fa-linkedin:hover {
+  color: #0172af;
+}
+.fa-github:hover {
+  color: #b027f3;
+}
