@@ -3,6 +3,28 @@ a {
   text-decoration: none;
 }
 
+.dropdown-item__cart {
+  background: #0d6efd;
+  color: white;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  min-width: 300px;
+}
+
+.card-img {
+  display: block;
+  width: 9rem;
+}
+
+.card-text {
+  max-width: 16rem;
+  word-wrap: break-word;
+  padding: 20px;
+}
+
 .fa-facebook:hover {
   color: #3c51a2;
 }
@@ -20,14 +42,4 @@ a {
 }
 .fa-github:hover {
   color: #b027f3;
-}
-
-.carousel-item {
-  height: 100vh;
-  min-height: 350px;
-  background: no-repeat center center scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }

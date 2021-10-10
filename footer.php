@@ -80,11 +80,10 @@
                 <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                     <!-- Content -->
                     <h6 class="text-uppercase fw-bold mb-4">
-                        <i class="fas fa-gem me-3"></i>Company name
+                        <i class="fab fa-shopware me-3"></i>Humber Cart
                     </h6>
                     <p>
-                        Here you can use rows and columns to organize your footer content. Lorem ipsum
-                        dolor sit amet, consectetur adipisicing elit.
+                        We provide all kind of goods to Humber College students
                     </p>
                 </div>
                 <!-- Grid column -->
@@ -137,13 +136,13 @@
                     <h6 class="text-uppercase fw-bold mb-4">
                         Contact
                     </h6>
-                    <p><i class="fas fa-home me-3"></i> New York, NY 10012, US</p>
+                    <p><i class="fas fa-home me-3"></i> Toronto, ON, K5S 9G6, Canada</p>
                     <p>
                         <i class="fas fa-envelope me-3"></i>
-                        info@example.com
+                        humbercart@humber.ca
                     </p>
-                    <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
-                    <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
+                    <p><i class="fas fa-phone me-3"></i> +1 234 567 88</p>
+                    <p><i class="fas fa-print me-3"></i> +1 234 567 89</p>
                 </div>
                 <!-- Grid column -->
             </div>

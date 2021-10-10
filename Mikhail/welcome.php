@@ -1,6 +1,3 @@
-
-    <header>
-
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -36,12 +33,11 @@
         <span class="visually-hidden">Next</span>
     </button>
 </div>
-</header>
+
 <!-- Page Content -->
 <section class="py-5">
-<div class="container">
-    <h1 class="fw-light">Full Page Image Slider</h1>
-    <p class="lead">The background images for the slider are set directly in the HTML using inline CSS. The images
-        in this snippet are from <a href="https://unsplash.com">Unsplash</a>, taken by <a href="https://unsplash.com/@joannakosinska">Joanna Kosinska</a>!</p>
-</div>
+    <div class="container">
+        <h1 class="fw-light"></h1>
+        <p class="lead"></p>
+    </div>
 </section>
