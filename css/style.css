@@ -1,0 +1,32 @@
+a { /* or whatever your class */
+  text-decoration: none;
+}
+
+.fa-facebook:hover {
+  color: #3c51a2;
+}
+.fa-twitter:hover {
+  color: #5cb0f3;
+}
+.fa-google:hover {
+  color: #017bf3;
+}
+.fa-instagram:hover {
+  color: #da1331;
+}
+.fa-linkedin:hover {
+  color: #0172af;
+}
+.fa-github:hover {
+  color: #b027f3;
+}
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
