@@ -1,0 +1,66 @@
+
+.masthead {
+    position: relative;
+    background-color: #343a40;
+    background: url("img/background.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+.masthead:before {
+    content: "";
+    position: absolute;
+    background-color: #1c375e;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+}
+.masthead h1, header.masthead .h1 {
+    font-size: 2rem;
+}
+@media (min-width: 768px) {
+    .masthead {
+        padding-top: 12rem;
+        padding-bottom: 12rem;
+    }
+    .masthead h1, header.masthead .h1 {
+        font-size: 3rem;
+    }
+}
+
+.quotes {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+.quotes .testimonial-item  {
+    max-width: 18rem;
+}
+.quotes .testimonial-item  {
+    max-width: 12rem;
+    box-shadow: 0px 5px 5px 0px #adb5bd;
+}
+.disc {
+    padding-top: 8rem;
+}
+
+.thumbnail img {
+    width: 50%;
+}
+
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+@media (max-width: 768px) {
+    .thumbnail {
+        font-size: 1.2rem;
+    }
+}

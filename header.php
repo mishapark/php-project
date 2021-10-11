@@ -23,7 +23,6 @@ session_start();
     <link type="text/css" rel="stylesheet" href="css/style.css" />
     <link type="text/css" rel="stylesheet" href="./Mikhail/css/index.css" />
 
-
 </head>
 
 <body>
