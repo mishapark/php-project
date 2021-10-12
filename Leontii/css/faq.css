@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+body{
+    margin: 0 auto;
+	background-image: url("../image/loginBackground.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.box{
+   width: 70vw;
+   height: 80vh;
+   margin: 100px auto;
+   background: #fff;
+   border-radius: 10px;
+   box-shadow: 1px 2px 4px rgba(0,0,0,.3);
+}
+
+.box .heading{
+   background: #7800CF;
+   border-radius: 7px 7px 0px 0px;
+   padding: 10px;
+   color: #fff;
+   text-align: center;
+   font-family: "Rubik";
+}
+
+.faqs{
+   padding: 0px 5vh 5vh;
+}
+
+::-webkit-details-marker{
+   float: right;
+   margin-top: 3px;
+}
+
+details{
+   background: #f6f6f6;
+   padding: 2vh 5vh;
+   border-radius: 7px;
+   margin-top: 20px;
+   font-family: "Rubik";
+   font-size: 14px;
+   letter-spacing: 1px;
+   cursor: pointer;
+}
+
+details summary{
+   outline: none;
+}
